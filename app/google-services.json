@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "389069898485",
+    "firebase_url": "https://sleepapp-6df9b.firebaseio.com",
+    "project_id": "sleepapp-6df9b",
+    "storage_bucket": "sleepapp-6df9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389069898485:android:61f18988cd27beac2ffbbc",
+        "android_client_info": {
+          "package_name": "com.example.sleepapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389069898485-1iglatsvbhnb6pfqbouf920c7vt48bal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQHImpBaQLmfXJFxz-tEhi4euF4_xxTVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389069898485-1iglatsvbhnb6pfqbouf920c7vt48bal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
