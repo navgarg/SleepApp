@@ -17,7 +17,7 @@ import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 
 public class LoginActivity extends AppCompatActivity {
-
+//TODO: Signup Activity should be created?
     private EditText mEmailEditText;
     private EditText mPasswordEditText;
     private Button mLoginButton;
